@@ -1,0 +1,1 @@
+this folder contains useful snippets for quickly contruscting tables in python.
